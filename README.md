@@ -100,4 +100,4 @@ Focuses on long-term trends and year-over-year performance.
 * Dashboard design and data storytelling
 
 ## File
-[Download Power BI Dashboard](/sg_hospital_admissions_monthly_Analysis.pbix.pbix)
+[Download Power BI Dashboard](/sg_hospital_admissions_monthly_Analysis.pbix)
