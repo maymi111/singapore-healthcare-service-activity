@@ -70,13 +70,13 @@ Focuses on long-term trends and year-over-year performance.
 ## Dashboard Preview
 
 ### Monthly View
-![Monthly View](screenshots/monthly-view.png)
+![Monthly View](/monthly-view.png)
 
 ### Consolidated View
-![Consolidated View](screenshots/consolidated-view.png)
+![Consolidated View](/consolidated-view.png)
 
 ### Key Takeaways
-![Key Takeaways](screenshots/key-takeaways.png)
+![Key Takeaways](/key-takeaways.png)
 
 ## 🔍 Key Insights
 
@@ -100,4 +100,4 @@ Focuses on long-term trends and year-over-year performance.
 * Dashboard design and data storytelling
 
 ## File
-[Download Power BI Dashboard](sg_hospital_admissions_monthly_Analysis.pbix)
+[Download Power BI Dashboard](sg_hospital_admissions_monthly_Analysis.pbix.pbix)
