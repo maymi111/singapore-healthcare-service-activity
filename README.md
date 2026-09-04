@@ -1,13 +1,13 @@
 # singapore-healthcare-service-activity
 # Singapore Healthcare Service Activity Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes **Singapore's monthly healthcare service activity** from **January 1987 to June 2026** using Power BI.
 
 The dashboard provides insights into healthcare service activity trends, service utilisation, monthly patterns, year-over-year growth, and the top healthcare service categories.
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze long-term healthcare service activity trends
 * Compare activity across different healthcare services
@@ -15,14 +15,14 @@ The dashboard provides insights into healthcare service activity trends, service
 * Analyze year-over-year growth
 * Identify the top healthcare service categories
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Power BI**
 * **Power Query**
 * **DAX**
 * **Data.gov.sg**
 
-## 📁 Dataset
+##  Dataset
 
 **Dataset:** Hospital Admissions, Public Sector Outpatient Attendances And Day Surgeries, Monthly
 **Source:** Singapore Government Data (https://data.gov.sg/datasets/d_b1ac3356e23ecad918854bbfa3627952/view)
@@ -40,7 +40,7 @@ The dataset includes healthcare service categories such as:
 * Day Surgeries
 * Psychiatric Hospitals Admissions
 
-## 📈 Dashboard
+##  Dashboard
 
 The dashboard consists of two views:
 
@@ -77,7 +77,7 @@ Focuses on long-term trends and year-over-year performance.
 ### Key Takeaways
 ![Key Takeaways](/key-takeaways.png)
 
-## 🔍 Key Insights
+##  Key Insights
 
 * Total healthcare service activity reached approximately **406M**.
 * Average monthly activity was approximately **856.88K**.
@@ -88,7 +88,7 @@ Focuses on long-term trends and year-over-year performance.
 * Healthcare service activity increased from approximately **6M in 1987** to **17M in 2025**.
 * The latest available period recorded approximately **4.5% YoY growth**.
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data cleaning and transformation using **Power Query**
 * Data modelling
