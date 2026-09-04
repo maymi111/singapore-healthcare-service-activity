@@ -25,8 +25,7 @@ The dashboard provides insights into healthcare service activity trends, service
 ## 📁 Dataset
 
 **Dataset:** Hospital Admissions, Public Sector Outpatient Attendances And Day Surgeries, Monthly
-
-**Source:** Singapore Government Data
+**Source:** Singapore Government Data (https://data.gov.sg/datasets/d_b1ac3356e23ecad918854bbfa3627952/view)
 **Period:** January 1987 – June 2026
 **Frequency:** Monthly
 
